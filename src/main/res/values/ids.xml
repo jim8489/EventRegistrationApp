@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email" type="id" />
+    <item name="user_email" type="id" />
+    <item name="editTextCollege" type="id" />
+    <item name="userEmail" type="id" />
+</resources>
